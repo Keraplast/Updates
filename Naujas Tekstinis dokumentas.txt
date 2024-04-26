@@ -1,0 +1,17 @@
+top part not needed wire released and should be removed.
+
+Manual opening should be only "NO" conf 01 and 23 need to be hidden
+ 
+vata 70 missing 0228 kivi 23M conf
+padaryt vertimus is Fin -> EE 
+Routings pakeist gal į Hours (turi būt the same)
+
+OC is default YES for every conf
+
+Actuator voltage code name should be 24/48 (now 24) 
+
+Check the prices (not
+
+Price -> 1,88* cost in ESTONIA (reiks suvest formules),
+
+Actuator stop (one extra option in conf)
